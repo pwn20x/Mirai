@@ -4,27 +4,29 @@ A Powerful Set Of Tools.
 
 **Step 1 - You Will Need To Install PuTTY (SSH Client).**
 
-# x32-Bit
+# x32-Bit**
 
 ```
 https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi
 ```
 
-# x64-Bit
+# x64-Bit**
 
 ```
 https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
 ```
 
-# **Step 2 - Run The Mirai Client File.
+# **Step 2 - Run The Mirai Client File.**
 
-```Provided To You Upon Purchase.```
+```Provided To You Upon Purchase Via Email / Discord.```
 
-# ** Step 3 - Set A Password.
+# ** Step 3 - Set A Password.**
 
 ```
 • Confirm Your Existing Password.
+
 • Enter A New Password
+
 • Confirm Your New Password.
 ```
 **Note: Your Password Must Not Be Palindrome, Short In Length, Or Simple.
