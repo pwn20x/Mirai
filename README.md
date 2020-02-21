@@ -29,7 +29,18 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
 
 • Confirm Your New Password.
 ```
-**Note: Your Password Must Not Be Palindrome, Short In Length, Or Simple.
-If You Forget Your Password, You May Use The Password Recovery Tool From The Computing Services Tab.**
+**Note: Your Password Must Not Be Palindrome, Brief , Or Simple. The More Complex, The Better.**
+**If You Forget Your Password, You May Use The Password Recovery Tool From The Computing Services Tab.**
+
 
 *To Paste Into The Console, Right Click. Ctrl+V Does Not Work.*
+
+**# Mobile Installation:**
+
+**Mirai Works With Almost Every Device, Including iOS And Android!**
+
+**For iOS Users, Download An App Called Termius (Or NewTerm For JB Users).**
+
+**For Android Users, You Can Use Either Termius Or Termux.**
+
+**# Please Note That Mirai Does Not Support Other Clients Than The Ones We Provide, And Your Account May Be Terminated If Used.**
