@@ -43,4 +43,4 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
 
 **For Android Users, You Can Use Either Termius Or Termux.**
 
-# **Please Note That Mirai Does Not Support Or Encourage Use Of Other Clients Than The Ones We Provide (Termius/NewTerm/Termux), Such Policy Violation Will Lead To A Warning, Suspension, Or Termination If Our Anti-Abuse System Flags Your Account.**
+# **Please Note That Mirai Does Not Support Or Encourage Use Of Other Clients Than The Ones We Provide (Termius/NewTerm/Termux), And Such Policy Violation May Lead To The Suspension Or Termination Of Your Account If Our Anti-Abuse System Flags Your Account.**
