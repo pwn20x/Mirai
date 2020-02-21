@@ -20,7 +20,7 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
 
 ```Provided To You Upon Purchase Via Email / Discord.```
 
-# ** Step 3 - Set A Password.**
+# **Step 3 - Set A Password.**
 
 ```
 • Confirm Your Existing Password.
