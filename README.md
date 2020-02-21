@@ -35,7 +35,7 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
 
 *To Paste Into The Console, Right Click. Ctrl+V Does Not Work.*
 
-**# Mobile Installation:**
+# **Mobile Installation:**
 
 **Mirai Works With Almost Every Device, Including iOS And Android!**
 
@@ -43,4 +43,4 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
 
 **For Android Users, You Can Use Either Termius Or Termux.**
 
-**# Please Note That Mirai Does Not Support Other Clients Than The Ones We Provide, And Your Account May Be Terminated If Used.**
+# **Please Note That Mirai Does Not Support Other Clients Than The Ones We Provide, And Your Account May Be Terminated If Used.**
